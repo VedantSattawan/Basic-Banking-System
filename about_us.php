@@ -78,7 +78,7 @@
             <br><br>
             <p style="color:white;">This website is created by</p>
             <h1 style="color:white; text-shadow:2px 2px 2px gray;">vedant sattawan</h1>
-            <p style="color:gray;"><b>Intern at Sparks Foundation <br> Sinhgad Academy of Engineering, Pune</b></p>
+            <p style="color:gray;"><b>Intern at Sparks Foundation <br> INDIAN INSTITUDE OF TECHNOLOGY ROORKEE, ROORKEE</b></p>
     </center>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
